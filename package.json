@@ -1,0 +1,20 @@
+{
+  "name": "natasha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "instagram-private-api": "git+https://github.com/huttarichard/instagram-private-api.git",
+    "mongodb": "^3.0.10",
+    "request": "^2.87.0",
+    "sharp": "^0.20.3",
+    "twilio": "^3.17.2"
+  }
+}
